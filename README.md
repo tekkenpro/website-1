@@ -25,7 +25,7 @@ We use Rack to mount several smaller rack apps that serve different bits of cont
 
 See [this blog post](http://mwmanning.com/2011/12/04/Jekyll-on-Heroku-Part-2.html) for more information about this design.
 
-We decided not to use rack-jekyll as it didn't seem to be able to handle mounting a non-root directory and didn't seem to add much, other than complexity.
+We decided not to use rack-jekyll as it did not seem to be able to handle mounting a non-root directory and did not seem to add much, other than complexity.
 
 ## Contributing
 
